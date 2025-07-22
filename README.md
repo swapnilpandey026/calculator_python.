@@ -2,12 +2,12 @@
 
 A simple GUI-based calculator built using Python and Tkinter. Supports basic arithmetic operations with a clean interface.
 
-##🚀 FEATHURE
+## 🚀 FEATHURE
 - Addition, Subtraction, Multiplication, Division
 - Clear and Evaluate buttons
 - Simple and user-friendly GUI
 
-##▶️ HOW TO RUN
+## ▶️ HOW TO RUN
 
 1. Install Python 3.x
 2. Save the file `calculator_app.py`
